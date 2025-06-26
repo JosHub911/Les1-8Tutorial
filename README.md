@@ -46,6 +46,8 @@ Spelerbeweging gemaakt: met PlayerMove.cs heb je een speler (cube) gemaakt die o
 Volger geprogrammeerd: met FollowAndReturn.cs liet je een sphere de speler volgen met Vector3.Lerp.
 Terugkeer gedrag gebouwd: als de volger dicht bij de speler komt, keert hij terug naar zijn startpositie met een vaste snelheid via normalized richting.
 Afstanden gemeten: je gebruikte Vector3.Distance of .magnitude om te bepalen wanneer de volger moet stoppen of terugkeren.
+
+
 ![9ylowt](https://github.com/user-attachments/assets/6dc51d5a-b6e3-44b5-b839-00d7539d0452)
 
 
